@@ -14,7 +14,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 
 # %%
-data_path = "../data/"  # 数据集路径
+data_path = "./data/"  # 数据集路径
 # train_data_name = "chatterbot.tsv"
 train_data_name = "genshin.tsv"
 # %%
